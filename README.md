@@ -52,6 +52,11 @@ Passionate about crafting robust and scalable software systems, I'm an Ethical H
 
 Explore my repositories to witness the magic and innovation in the digital realm. From cybersecurity exploits to full-stack marvels, every project has a story to tell.
 
+![GitHub stats](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub repositories](https://img.shields.io/badge/dynamic/json?color=green&label=repositories&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyourusername%2Frepos&style=social)
+
+
 ## 📱 Connect with Me:
 
 Feel free to drop me a line on [Twitter](https://twitter.com/roran__williams). Let's chat about technology, share ideas, and collaborate on exciting projects!
