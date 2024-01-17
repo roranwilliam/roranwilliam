@@ -11,9 +11,12 @@ Passionate about crafting robust and scalable software systems, I'm an Ethical H
     - 💽 [![MySQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg | width=20)](https://www.mysql.com/)
     - 💽 [![SQLite Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg | width=20)](https://www.sqlite.org/)
 
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p
+  - **Languages and Tools:** 
+    - 🐍 [![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=20)](https://www.python.org/)
+    - 🅾️ [![C Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=20)](https://en.wikipedia.org/wiki/C_(programming_language))
+    - 🐘 [![PHP Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg | width=20)](https://www.php.net/)
+    - ☕ [![Java Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg | width=20)](https://www.java.com/)
+    - 🌐 [![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
   - **Web Frameworks:** 
     - 🌐 [![Django Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg | width=20)](https://www.djangoproject.com/)
@@ -55,7 +58,6 @@ Explore my repositories to witness the magic and innovation in the digital realm
 ![GitHub stats](https://img.shields.io/github/stars/yourusername?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub repositories](https://img.shields.io/badge/dynamic/json?color=green&label=repositories&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyourusername%2Frepos&style=social)
-
 
 ## 📱 Connect with Me:
 
