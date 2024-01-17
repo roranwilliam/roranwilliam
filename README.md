@@ -5,49 +5,49 @@ Hey there! I'm Roran Williams, an Ethical Hacker, Full Stack Developer, and pass
 ## 🔧 Technical Toolbox:
 
 - **Databases:** 
-  - ![PostgreSQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg | width=40)
-  - ![MySQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg | width=40)
-  - ![SQLite Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg | width=40)
+  - 💽 PostgreSQL
+  - 💽 MySQL
+  - 💽 SQLite
 
 - **Programming Languages:** 
-  - ![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=40)
-  - ![C Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=40)
-  - ![C++ Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg | width=40)
-  - ![PHP Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg | width=40)
-  - ![Java Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg | width=40)
-  - ![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=40)
+  - 🐍 Python
+  - 🅒 C
+  - 🅒🅒 C++
+  - 💻 PHP
+  - ☕ Java
+  - 🌐 JavaScript
 
 - **Web Frameworks:** 
-  - ![Django Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg | width=40)
-  - ![Flask Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg | width=40)
-  - ![Angular Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg | width=40)
+  - 🌐 Django
+  - 🌐 Flask
+  - 🅰️ Angular
 
 - **Mobile:** 
-  - ![Android Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg | width=40)
-  - ![iOS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg | width=40)
+  - 📱 Android
+  - 📱 iOS
 
 - **Web Technologies:** 
-  - ![HTML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg | width=40)
-  - ![CSS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg | width=40)
-  - ![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=40)
-  - ![XML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg | width=40)
+  - 🌐 HTML
+  - 🌐 CSS
+  - 🌐 JavaScript
+  - 🌐 XML
 
 - **Blockchain:** 
-  - ![Blockchain Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/blockchain/blockchain-original.svg | width=40)
+  - ⛓️ Blockchain
 
 - **Tools:** 
-  - ![Postman Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg | width=40)
+  - 🔧 Postman
 
 - **Cloud Services:** 
-  - ![AWS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg | width=40)
+  - ☁️ AWS
 
 - **Software Engineering:** 
-  - ![Generic Software Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/generic/generic-original.svg | width=40)
+  - 💻 Software Engineering
 
 - **Web Development:** 
-  - ![Angular Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg | width=40)
-  - ![REST Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg | width=40)
-  - ![Node.js Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg | width=40)
+  - 🅰️ Angular
+  - 🔄 REST
+  - 🚀 Node.js
 
 ## 🚀 Projects:
 
