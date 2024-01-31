@@ -5,7 +5,7 @@ Hey there! I'm Roran Williams, an Ethical Hacker, Full Stack Developer, and pass
 ## 🔧 Technical Toolbox:
 
 - **Programming Languages:** Python, C, C++, PHP, Java, JavaScript
-- **Web Frameworks:** Django, Flask,
+- **Web Frameworks:** Django, Flask, Nodejs, React, Express, jQuery,
 - **Mobile:** Android, iOS
 - **Web Technologies:** HTML, CSS, JavaScript, XML
 - **Blockchain:** Smart Contracts, Decentralized Applications (DApps)
