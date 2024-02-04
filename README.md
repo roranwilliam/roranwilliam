@@ -1,3 +1,4 @@
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 <h3 align="center">Meet Roran Williams: a tech aficionado with a knack for ethical hacking and full stack development. Fueled by an insatiable curiosity and a penchant for problem-solving, Roran delves into cutting-edge technologies, continuously pushing the boundaries of innovation. From fortifying cybersecurity to crafting seamless user experiences, Roran remains at the forefront of technological advancement, shaping the digital landscape of tomorrow. 🚀💻🔒🧠🌐</h3>
 
 
